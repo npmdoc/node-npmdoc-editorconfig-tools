@@ -1,4 +1,7 @@
-# api documentation for  [editorconfig-tools (v0.1.1)](https://github.com/slang800/editorconfig-tools)  [![npm package](https://img.shields.io/npm/v/npmdoc-editorconfig-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-editorconfig-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-editorconfig-tools.svg)](https://travis-ci.org/npmdoc/node-npmdoc-editorconfig-tools)
+# npmdoc-editorconfig-tools
+
+#### basic api documentation for  [editorconfig-tools (v0.1.1)](https://github.com/slang800/editorconfig-tools)  [![npm package](https://img.shields.io/npm/v/npmdoc-editorconfig-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-editorconfig-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-editorconfig-tools.svg)](https://travis-ci.org/npmdoc/node-npmdoc-editorconfig-tools)
+
 #### Tools for verifying/fixing code style based on an EditorConfig file
 
 [![NPM](https://nodei.co/npm/editorconfig-tools.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/editorconfig-tools)
